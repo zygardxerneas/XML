@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45121ed7-f1bb-494b-b535-6e1ec3ccc4fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -293,7 +292,7 @@
       <updated>1520862842503</updated>
       <workItem from="1520862844368" duration="4068000" />
       <workItem from="1520867249325" duration="5565000" />
-      <workItem from="1521552783898" duration="843000" />
+      <workItem from="1521552783898" duration="1393000" />
     </task>
     <task id="LOCAL-00001" summary="根据dalao的意见修改">
       <created>1520948865070</created>
@@ -330,14 +329,21 @@
       <option name="project" value="LOCAL" />
       <updated>1520951339936</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="schema">
+      <created>1521553655921</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521553655921</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10476000" />
+    <option name="totallyTimeSpent" value="11026000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -369,7 +375,8 @@
     <MESSAGE value="根据dalao的意见修改" />
     <MESSAGE value="home-&gt;西米露" />
     <MESSAGE value="图片链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="图片链接" />
+    <MESSAGE value="schema" />
+    <option name="LAST_COMMIT_MESSAGE" value="schema" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
