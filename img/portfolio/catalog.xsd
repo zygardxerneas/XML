@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:complexType name="authorInfo">
+		<xs:sequence>
+			<xs:element name="uName" type="xs:string"/>
+			<xs:element name="uID" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="abstractInfo">
+		<xs:sequence>
+			<xs:element name="briefing" type="xs:string"/>
+			<xs:element name="keyword" type="xs:string"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="sizeInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="1920"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="yearInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1900"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="monthInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="12"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="dayInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="1"/>
+			<xs:maxInclusive value="31"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="dateInfo">
+		<xs:attribute name="year" type="yearInfo" use="required"/>
+		<xs:attribute name="month" type="monthInfo" use="required"/>
+		<xs:attribute name="day" type="dayInfo" use="required"/>
+	</xs:complexType>
+	<xs:simpleType name="hourInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="23"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="minuteInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="59"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="secondInfo">
+		<xs:restriction base="xs:integer">
+			<xs:minInclusive value="0"/>
+			<xs:maxInclusive value="59"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:complexType name="timeInfo">
+		<xs:attribute name="hour" type="hourInfo" use="required"/>
+		<xs:attribute name="minute" type="minuteInfo" use="required"/>
+		<xs:attribute name="second" type="secondInfo" use="required"/>
+	</xs:complexType>
+	<xs:complexType name="uploadTimeInfo">
+		<xs:sequence>
+			<xs:element name="date" type="dateInfo"/>
+			<xs:element name="time" type="timeInfo"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="video">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="title" type="xs:string"/>
+				<xs:element name="author" type="authorInfo"/>
+				<xs:element name="format" type="xs:string"/>
+				<xs:element name="abstract" type="abstractInfo"/>
+				<xs:element name="size">
+					<xs:complexType>
+						<xs:attribute name="width" type="sizeInfo" use="required"/>
+						<xs:attribute name="height" type="sizeInfo" use="required"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="duration" type="xs:string"/>
+				<xs:element name="uploadtime" type="uploadTimeInfo"/>
+			</xs:sequence>
+			<xs:attribute name="id" type="xs:ID" use="required"/>
+			<xs:attribute name="src" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

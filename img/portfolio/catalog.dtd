@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT catalog (catalog | video)*>
+<!ATTLIST catalog
+	description CDATA #REQUIRED
+>
+<!ELEMENT video (title, author, format, abstract, size, duration, uploadTime)>
+<!ATTLIST video
+	id ID #REQUIRED
+	src CDATA #REQUIRED
+>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (uName, uID)>
+<!ELEMENT uName (#PCDATA)>
+<!ELEMENT uID (#PCDATA)>
+<!ELEMENT format (#PCDATA)>
+<!ELEMENT abstract (briefing, keyword+)>
+<!ELEMENT briefing (#PCDATA)>
+<!ELEMENT keyword (#PCDATA)>
+<!ELEMENT size EMPTY>
+<!ATTLIST size
+	width CDATA #REQUIRED
+	height CDATA #REQUIRED
+>
+<!ELEMENT duration (#PCDATA)>
+<!ELEMENT uploadTime (date, time)>
+<!ELEMENT date EMPTY>
+<!ATTLIST date
+	year CDATA #REQUIRED
+	month CDATA #REQUIRED
+	day CDATA #REQUIRED
+>
+<!ELEMENT time EMPTY>
+<!ATTLIST time
+	hour CDATA #REQUIRED
+	minute CDATA #REQUIRED
+	second CDATA #REQUIRED
+>
