@@ -1,0 +1,83 @@
+* {
+    font-family: 微软雅黑, sans-serif;
+    cursor: default;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+div.title {
+    font-family: Impact, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 1.5%;
+    line-height: 150%;
+}
+
+div.videos {
+    border: cornflowerblue dashed;
+    border-radius: 16px;
+    margin: 2% auto;
+    padding: 2% 3%;
+    width: 70%;
+}
+
+span.keywords {
+    padding: 4px 13px;
+    background: cornflowerblue;
+    color: aliceblue;
+    border-radius: 16px;
+    margin-left: 0.5%;
+    line-height: 250%;
+}
+
+span.keywords:hover {
+    background: #F0F8FF;
+    color: #6495ED;
+    cursor: pointer;
+}
+
+div.src {
+    word-wrap: break-word;
+    font-size: 125%;
+    background: cornflowerblue;
+    color: aliceblue;
+    padding: 1%;
+    margin-top: 3%;
+    text-align: center;
+    border-radius: 16px;
+}
+
+div.src:hover {
+    background: #F0F8FF;
+    color: #6495ED;
+    cursor: pointer;
+}
+
+span.authors {
+    padding: 4px 16px;
+    background: cornflowerblue;
+    color: aliceblue;
+    border-radius: 16px;
+}
+
+div.abstracts {
+    margin: 3%;
+    line-height: 200%;
+    max-width: 90%;
+    white-space: pre-line;
+    word-wrap: break-word;
+    position: relative;
+    left: 2%;
+    font-size: 120%;
+}
+
+span.ads {
+    background: darkorange;
+    color: white;
+    padding: 1.5% 1.5%;
+    border-radius: 1000%;
+    font-family: Impact, sans-serif;
+    line-height: 150%;
+}

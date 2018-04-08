@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalog.xsl"?>
+<!--DOCTYPE catalog SYSTEM "catalog.dtd"-->
+<catalog description="主页">
+    <catalog description="科技">
+        <catalog description="数码">
+			<video id="av20613407" src="https://www.bilibili.com/video/av20613407/">
+                <title>东京之旅（胶片）</title>
+                <author>
+                    <uName>玄如召忠</uName>
+                    <uID>5487246</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>东京之行胶片相机拍摄
+                        胶卷：柯达5207
+                        扫描仪：哈苏</briefing>
+                    <keyword>人文</keyword>
+                    <keyword>日本</keyword>
+                    <keyword>摄影</keyword>
+                    <keyword>旅游</keyword>
+                    <keyword>街拍</keyword>
+                    <keyword>胶片</keyword>
+                </abstract>
+                <size width="1592" height="1080"/>
+                <duration>150</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="11"/>
+                    <time hour="02" minute="24" second="00"/>
+                </uploadTime>
+            </video>
+			<video id="av19466152" src="https://www.bilibili.com/video/av19466152/">
+                <title>「科技美学直播」刺激战场vs全军出击 10款手机 百元到万元 谁是最佳绝地求生手机</title>
+                <author>
+                    <uName>科技美学</uName>
+                    <uID>3766866</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>「科技美学直播」刺激战场vs全军出击 10款手机 百元到万元 谁是最佳绝地求生手机</briefing>
+                    <keyword>手游</keyword>
+                    <keyword>科技美学</keyword>
+                    <keyword>数码</keyword>
+                    <keyword>绝地求生</keyword>
+                    <keyword>刺激战场</keyword>
+                    <keyword>全军出击</keyword>
+                    <keyword>那岩</keyword>
+                    <keyword>腾讯游戏</keyword>
+                    <keyword>PUBG</keyword>
+                </abstract>
+                <size width="1280" height="720"/>
+                <duration>531</duration>
+                <uploadTime>
+                    <date year="2018" month="02" day="11"/>
+                    <time hour="22" minute="47" second="44"/>
+                </uploadTime>
+            </video>
+            <video id="av21010307" src="https://www.bilibili.com/video/av21010307/">
+                <title>微信QQ你选哪个，我觉得微信小程序甩QQ10条街</title>
+                <author>
+                    <uName>快享100</uName>
+                    <uID>266086509</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>微信QQ你选哪个，我觉得微信小程序甩QQ10条街</briefing>
+                    <keyword>苹果</keyword>
+                    <keyword>科技</keyword>
+                    <keyword>小米</keyword>
+                    <keyword>安卓</keyword>
+                    <keyword>软件</keyword>
+                    <keyword>手机</keyword>
+                    <keyword>数码</keyword>
+                    <keyword>微信</keyword>
+                </abstract>
+                <size width="1280" height="720"/>
+                <duration>58</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="20"/>
+                    <time hour="22" minute="17" second="49"/>
+                </uploadTime>
+            </video>
+        </catalog>
+        <catalog description="演讲·公开课">
+			<video id="av20693337" src="https://www.bilibili.com/video/av20693337/">
+                <title>【 专升本计算机】智博邵老师主讲 寒假冲刺班讲解视频 02</title>
+                <author>
+                    <uName>隔壁薯片不半价</uName>
+                    <uID>300318579</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>冲刺复习必备宝典
+                        只上传了一部分视频，需要全部八套视频+电子版讲义的请私信
+                        请不要对up主口诛笔伐啊啊啊啊，这也是我花毛爷爷辛辛苦苦买来的o(￣▽￣)ｄ</briefing>
+                    <keyword>专升本</keyword>
+                    <keyword>计算机</keyword>
+                </abstract>
+                <size width="1366" height="768"/>
+                <duration>6233</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="13"/>
+                    <time hour="08" minute="19" second="00"/>
+                </uploadTime>
+            </video>
+            <video id="av20766675" src="https://www.bilibili.com/video/av20766675/">
+                <title>霍金的最后一次演讲，6分钟影响全人类</title>
+                <author>
+                    <uName>莫莫素素</uName>
+                    <uID>52815332</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>https://www.youtube.com/watch?v=u0eJRXOOikg
+霍金的最后一次演讲，6分钟影响全人类</briefing>
+                    <keyword>物理</keyword>
+                    <keyword>霍金</keyword>
+                    <keyword>演讲</keyword>
+                    <keyword>科学家</keyword>
+                </abstract>
+                <size width="1366" height="768"/>
+                <duration>378</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="14"/>
+                    <time hour="19" minute="30" second="21"/>
+                </uploadTime>
+            </video>
+        </catalog>
+        <catalog description="星海">
+			<video id="av20710520" src="https://www.bilibili.com/video/av20710520/">
+                <title>美国陆军实弹射击训练</title>
+                <author>
+                    <uName>Edward0110</uName>
+                    <uID>231978951</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>https://www.youtube.com/watch?v=cn_JqbADC70#
+                        原作者：Ultimate Military Channel</briefing>
+                    <keyword>YOUTUBE</keyword>
+                    <keyword>美国</keyword>
+                    <keyword>军事科技</keyword>
+                    <keyword>军事</keyword>
+                    <keyword>武器</keyword>
+                    <keyword>星海</keyword>
+                </abstract>
+                <size width="1280" height="720"/>
+                <duration>196</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="13"/>
+                    <time hour="07" minute="38" second="00"/>
+                </uploadTime>
+            </video>
+            <video id="av11636288" src="https://www.bilibili.com/video/av11636288/">
+                <title>战斗民族特种部队如何突击绑匪？人质都懵逼了</title>
+                <author>
+                    <uName>CRAZY262</uName>
+                    <uID>324879</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>叙利亚战场上，俄罗斯反恐部队威猛异常，连解救人士都方式特别，其中某次任务以一种特殊方式被这样完整记录下来……</briefing>
+                    <keyword>FUZE躺枪</keyword>
+                    <keyword>俄式反恐</keyword>
+                    <keyword>战斗民族</keyword>
+                    <keyword>特种部队</keyword>
+                    <keyword>武器</keyword>
+                    <keyword>俄罗斯</keyword>
+                    <keyword>星海</keyword>
+                    <keyword>反恐</keyword>
+                    <keyword>人质</keyword>
+                    <keyword>毛子</keyword>
+                </abstract>
+                <size width="1280" height="720"/>
+                <duration>196</duration>
+                <uploadTime>
+                    <date year="2017" month="06" day="26"/>
+                    <time hour="11" minute="20" second="11"/>
+                </uploadTime>
+            </video>
+        </catalog>
+    </catalog>
+    <catalog description="生活">
+        <catalog description="搞笑">
+			<video id="av20711004" src="https://www.bilibili.com/video/av20711004/">
+                <title>变个身，想吃啥就吃啥</title>
+                <author>
+                    <uName>扭转生活</uName>
+                    <uID>94810380</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>别变身了，我喂你吃吧！</briefing>
+                    <keyword>搞笑视频</keyword>
+                    <keyword>性感</keyword>
+                    <keyword>搞笑</keyword>
+                    <keyword>美女</keyword>
+                    <keyword>恶搞</keyword>
+                </abstract>
+                <size width="" height=""/>
+                <duration>15</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="13"/>
+                    <time hour="08" minute="27" second="13"/>
+                </uploadTime>
+            </video>
+            <video id="av20710879" src="https://www.bilibili.com/video/av20710879/">
+                <title>这些孩子将来都是祖国的栋梁！</title>
+                <author>
+                    <uName>老咔咔吐槽</uName>
+                    <uID>15999326</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>转自内涵段子http://m.neihanshequ.com/share/group/91959796786/?iid=27002862152&amp;app=joke_essay&amp;utm_source=copy_link&amp;utm_campaign=client_share&amp;utm_medium=android
+                        人才辈出</briefing>
+                    <keyword>搞笑视频</keyword>
+                    <keyword>逗比</keyword>
+                    <keyword>搞笑</keyword>
+                    <keyword>奇葩</keyword>
+                </abstract>
+                <size width="480" height="848"/>
+                <duration>119</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="13"/>
+                    <time hour="08" minute="17" second="00"/>
+                </uploadTime>
+            </video>
+            <video id="av10210318" src="https://www.bilibili.com/video/av10210318/">
+                <title>装逼界四大天王</title>
+                <author>
+                    <uName>Swaggyp11</uName>
+                    <uID>14982019</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>转载自唐马儒微博~~
+唐马儒：你们说的都对…</briefing>
+                    <keyword>王健林</keyword>
+                    <keyword>THUGLIFE</keyword>
+                    <keyword>马云</keyword>
+                    <keyword>搞笑</keyword>
+                    <keyword>王思潮</keyword>
+                    <keyword>壕</keyword>
+                    <keyword>逼王</keyword>
+                </abstract>
+                <size width="480" height="272"/>
+                <duration>15</duration>
+                <uploadTime>
+                    <date year="2017" month="04" day="30"/>
+                    <time hour="19" minute="18" second="14"/>
+                </uploadTime>
+            </video>
+            <video id="av21020325" src="https://www.bilibili.com/video/av21020325/">
+                <title>直男化妆手法无误，蜜汁微笑！</title>
+                <author>
+                    <uName>范褶蓬</uName>
+                    <uID>192138495</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>手残室友心血来潮提“刀”上阵~心疼傻平~但是真的好搞笑啊！！！！23333333</briefing>
+                    <keyword>搞笑</keyword>
+                    <keyword>美妆</keyword>
+                    <keyword>辣眼睛</keyword>
+                </abstract>
+                <size width="640" height="368"/>
+                <duration>176</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="20"/>
+                    <time hour="22" minute="59" second="33"/>
+                </uploadTime>
+            </video>
+        </catalog>
+    </catalog>
+    <catalog description="广告">
+		<video id="av20710795" src="https://www.bilibili.com/video/av20710795/">
+            <title>【CM】泽尻绘里香　三得利低酒精饮料『醉意』-『流畅的Erika』篇（15秒+MAKING）,广告,广告,狗熊掰玉米,,哔哩哔哩,Bilibili,B站,弹幕</title>
+            <author>
+                <uName>狗熊掰玉米</uName>
+                <uID>104021</uID>
+            </author>
+            <format>.flv</format>
+            <abstract>
+                <briefing>2018年3月12日发布
+
+                    商品名：ほろよい
+                    オンエア開始日：2018年3月13日</briefing>
+                <keyword>泽尻英龙华</keyword>
+                <keyword>沢尻エリカ</keyword>
+                <keyword>女神</keyword>
+                <keyword>SUNTORY</keyword>
+                <keyword>泽尻绘里香</keyword>
+                <keyword>日本广告</keyword>
+                <keyword>三得利</keyword>
+            </abstract>
+            <size width="1280" height="720"/>
+            <duration>15</duration>
+            <uploadTime>
+                <date year="2018" month="03" day="13"/>
+                <time hour="08" minute="06" second="00"/>
+            </uploadTime>
+        </video>
+        <video id="av6266526" src="https://www.bilibili.com/video/av6266526/">
+            <title>曾经那些经典的广告，让人回味童年，看过的说明你老了</title>
+            <author>
+                <uName>辣么鸡炖</uName>
+                <uID>36296254</uID>
+            </author>
+            <format>.flv</format>
+            <abstract>
+                <briefing>今日头条 曾经那些经典的广告，让人回味童年！看过的说明你老了！</briefing>
+                <keyword>广告</keyword>
+                <keyword>80后</keyword>
+                <keyword>90后童年</keyword>
+                <keyword>我在B站看广告</keyword>
+            </abstract>
+            <size width="352" height="212"/>
+            <duration>15</duration>
+            <uploadTime>
+                <date year="2016" month="09" day="13"/>
+                <time hour="22" minute="07" second="27"/>
+            </uploadTime>
+        </video>
+    </catalog>
+    <catalog description="游戏">
+        <catalog description="单机游戏">
+            <video id="av21020555" src="https://www.bilibili.com/video/av21020555/">
+                <title>英雄vs：梦比优斯</title>
+                <author>
+                    <uName>爱琳琅天上爱逆战</uName>
+                    <uID>287516235</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>英雄vs</briefing>
+                    <keyword>英雄vs</keyword>
+                </abstract>
+                <size width="852" height="480"/>
+                <duration>143</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="20"/>
+                    <time hour="23" minute="13" second="28"/>
+                </uploadTime>
+            </video>
+            <video id="av20523785" src="https://www.bilibili.com/video/av20523785/">
+				<title>【我的三体】罗辑传 第11集（完结）</title>
+				<author>
+					<uName>神游八方</uName>
+					<uID>614801</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>相关游戏: Minecraft
+				简介补充: 第二季也终于完结了……
+				微博：@-神游八方- 《我的三体》第一红岸： 372776214 第二红岸： 399909358 水星基地：263400243
+				第一季合集 av4950805
+				S2E1 av4912442
+				S2E2 av6539529
+				S2E3 av17955150
+				S2E4 av18194931
+				S2E5 av18448741
+				S2E6 av18705590
+				S2E7 av18992136
+				S2E8 av19265855
+				S2E9 av19919834
+				S2E10 av20137760</briefing>
+					<keyword>镇站之宝</keyword>
+					<keyword>我的三体</keyword>
+					<keyword>三体</keyword>
+					<keyword>MC动画</keyword>
+					<keyword>完结撒花</keyword>
+					<keyword>科幻</keyword>
+					<keyword>片尾彩蛋</keyword>
+					<keyword>Minecraft</keyword>
+					<keyword>罗辑传</keyword>
+					<keyword>佳作</keyword>
+					<keyword>粉丝向</keyword>
+				</abstract>
+				<size width="1280" height="720"/>
+				<duration>1108</duration>
+				<uploadTime>
+					<date year="2018" month="03" day="09"/>
+					<time hour="12" minute="00" second="00"/>
+				</uploadTime>
+			</video>
+        </catalog>
+        <catalog description="GMV">
+            <video id="av20708395" src="https://www.bilibili.com/video/av20708395/">
+                <title>重制！《刺客再临》再度归来！！！</title>
+                <author>
+                    <uName>加勒比黑旗</uName>
+                    <uID>185155096</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>相关游戏: 《刺客信条1》《文艺复兴》《兄弟会》《启示录》《刺客信条3》《黑旗》《自由呐喊》《叛变》《大革命》《枭雄》《起源》
+                        简介补充:   重制的一期，修改了一些觉得不够好的内容。换了CG源，非常感谢B站UP主“影流教徒”告知的CG源！
+                        还是希望点赞关注一条龙什么的（虽然不太可能啦。。。）
+                        龙珠直播房间号：122644，希望各位赏光（虽然也不太可能。。。）</briefing>
+                    <keyword>CG混剪</keyword>
+                    <keyword>刺客信条</keyword>
+                    <keyword>混剪</keyword>
+                    <keyword>CG</keyword>
+                    <keyword>游戏</keyword>
+                    <keyword>单机游戏</keyword>
+                    <keyword>原创</keyword>
+                    <keyword>GMV</keyword>
+                    <keyword>燃向</keyword>
+                    <keyword>新人向</keyword>
+                </abstract>
+                <size width="1920" height="1080"/>
+                <duration>143</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="13"/>
+                    <time hour="08" minute="00" second="00"/>
+                </uploadTime>
+            </video>
+			<video id="av20563332" src="https://www.bilibili.com/video/av20563332/">
+				<title>【英雄联盟/极致画质/超燃CG】我们的故事还仍在继续</title>
+				<author>
+					<uName>觅森青</uName>
+					<uID>5504100</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>相关游戏: 英雄联盟 简介补充: 音乐：Rise - Epic Music FAIRY TAIL メインテーマ-高梨康治 声源：B站UP主小凯D 封面来源：OrekiGenya＠仕事募集 https://www.pixiv.net/member.php?id=4639749 微博 OrekiGenya 肝了好几个通宵了身体真的扛不住了 途中因为迷上了岩雀的声音重做了视频的前1分钟 hhh 这种作品看多了其实会腻的 而且素材cg用的差不多了 所以这个暂时是这个系列的完结作品吧 这个作品完结了！但是我们的征途还仍在继续！！ 等以后出新cg了再继续做下去！ 还有关于画面配不上英雄这个事情我想说 如果要是画面配英雄台词的话 那么会有很多英雄的语音都用不了 所以我让画面和歌曲契合而不是英雄台词 我就是个三流技术UP主 大家看着玩玩就行了！</briefing>
+					<keyword>英雄联盟</keyword>
+					<keyword>CG混剪</keyword>
+					<keyword>lol</keyword>
+					<keyword>CG</keyword>
+					<keyword>混剪</keyword>
+					<keyword>GMV</keyword>
+					<keyword>燃向</keyword>
+				</abstract>
+				<size width="1920" height="1080"/>
+				<duration>284</duration>
+				<uploadTime>
+					<date year="2018" month="03" day="10"/>
+					<time hour="10" minute="00" second="12"/>
+				</uploadTime>
+			</video>
+		</catalog>
+		<catalog description="电子竞技">
+			<video id="av19883957" src="https://www.bilibili.com/video/av19883957/">
+				<title>【大司马真皮合集】#2 二十分钟看一个月的瓜皮与骚话，素材来自马老师8月中至9月</title>
+				<author>
+					<uName>暗中观察的小老板</uName>
+					<uID>168760950</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>相关游戏: 英雄联盟
+简介补充: 前几天发了一个不解释连招合集，但是太短了，被我从真皮合集里面剔除了，这期真皮合集依然二十多分钟，希望大家对复习有所帮助。</briefing>
+					<keyword>多捞帅哦</keyword>
+					<keyword>搞笑锦集</keyword>
+					<keyword>大司马真皮合集</keyword>
+					<keyword>搞笑</keyword>
+					<keyword>电子竞技</keyword>
+					<keyword>英雄联盟</keyword>
+					<keyword>英雄联盟集锦</keyword>
+					<keyword>大司马</keyword>
+					<keyword>瓜皮</keyword>
+					<keyword>马老师</keyword>
+					<keyword>大司马集锦</keyword>
+				</abstract>
+				<size width="1920" height="1080"/>
+				<duration>1272</duration>
+				<uploadTime>
+					<date year="2018" month="02" day="22"/>
+					<time hour="04" minute="36" second="00"/>
+				</uploadTime>
+			</video>
+		</catalog>
+    </catalog>
+    <catalog description="鬼畜">
+    
+		<catalog description="人力VOCALOID">
+			<video id="av5514149" src="https://www.bilibili.com/video/av5514149/">
+				<title>【全明星】sister's noise</title>
+				<author>
+					<uName>惜缘、过去</uName>
+					<uID>159122</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>时间眨眼过去 终于赶在大赏结束前完成了这个作品 与去年参赛作品一样 选用了炮姐的OP【吵你妹】 作品大概主题：全明星追逐梦想与爱（基）情 填词花了点心思 可惜技术问题 还是有许多不足之处 还请大家见谅  这个OP依旧没有完整mv 又是P了微小的图 然后做了点微小的PV 希望大家支持我！ 
+我的愿望：这个作品的点击能上20W 难度SSS级</briefing>
+					<keyword>有文化的鬼畜</keyword>
+					<keyword>丧心病狂</keyword>
+					<keyword>某科学的超电磁炮S</keyword>
+					<keyword>王司徒</keyword>
+					<keyword>诸葛亮</keyword>
+					<keyword>元首</keyword>
+				</abstract>
+				<size width="1280" height="720"/>
+				<duration>262</duration>
+				<uploadTime>
+					<date year="2016" month="07" day="27"/>
+					<time hour="12" minute="08" second="00"/>
+				</uploadTime>
+			</video>
+			<video id="av19038345" src="https://www.bilibili.com/video/av19038345/">
+				<title>【丞相司徒】三国恋</title>
+				<author>
+					<uName>惜缘、过去</uName>
+					<uID>159122</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>BGM：三国恋-Tank
+好久没做丞相司徒的曲子了，因为感觉没有什么特别合适的BGM，感谢av17158480让我知道了这首这么棒的歌曲。曲子很燃，曲风也很搭，于是写一陋词，谱出此曲。
+喜欢的可以来个素质三连！谢谢！</briefing>
+					<keyword>百万调音师</keyword>
+					<keyword>B站方文山</keyword>
+					<keyword>拔剑吧，音乐区</keyword>
+					<keyword>人力VOCALOID</keyword>
+					<keyword>三国人唱三国恋</keyword>
+					<keyword>先投再看</keyword>
+					<keyword>押韵狂魔</keyword>
+					<keyword>三国恋</keyword>
+					<keyword>鬼畜区的未来之星</keyword>
+					<keyword>诸葛亮</keyword>
+					<keyword>王司徒</keyword>
+					<keyword>亿万填词</keyword>
+				</abstract>
+				<size width="1280" height="720"/>
+				<duration>240</duration>
+				<uploadTime>
+					<date year="2018" month="02" day="02"/>
+					<time hour="18" minute="00" second="00"/>
+				</uploadTime>
+			</video>
+			<video id="av14275641" src="https://www.bilibili.com/video/av14275641/">
+				<title>【全明星】Gee-鬼畜时代</title>
+				<author>
+					<uName>惜缘、过去</uName>
+					<uID>159122</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>久违的投稿。这次的视频的P图是我至今做的最累的一个，虽然还是很多地方没P好。这次的填词没有什么主题，随填，大家见谅。虽然这样，还是希望大家能多多投币收藏和关注，不然就过气啦，谢谢大家！</briefing>
+					<keyword>B站方文山</keyword>
+					<keyword>全明星</keyword>
+					<keyword>人力VOCALOID</keyword>
+					<keyword>镇站之宝</keyword>
+					<keyword>一天不看浑身难受</keyword>
+					<keyword>音乐区瑟瑟发抖</keyword>
+					<keyword>诸葛亮</keyword>
+					<keyword>金坷垃</keyword>
+					<keyword>波澜哥</keyword>
+					<keyword>王司徒</keyword>
+					<keyword>小钻风</keyword>
+					<keyword>Gee</keyword>
+				</abstract>
+				<size width="1280" height="720"/>
+				<duration>234</duration>
+				<uploadTime>
+					<date year="2017" month="09" day="08"/>
+					<time hour="16" minute="41" second="47"/>
+				</uploadTime>
+			</video>
+			<video id="av20551812" src="https://www.bilibili.com/video/av20551812/">
+				<title>【奥巴马】我们不一样 </title>
+				<author>
+					<uName>城之悠二</uName>
+					<uID>64827416</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>本次渣作，本来删了的，想一下毕竟也是自己的辛苦创作，还是恢复上传。 没怎么改填词，见谅，喜欢还是投个币吧，谢谢你们！</briefing>
+					<keyword>人力VOCALOID</keyword>
+					<keyword>奥巴马</keyword>
+					<keyword>我们不一样</keyword>
+				</abstract>
+				<size width="1280" height="720"/>
+				<duration>267</duration>
+				<uploadTime>
+					<date year="2018" month="03" day="09"/>
+					<time hour="16" minute="52" second="42"/>
+				</uploadTime>
+			</video>
+		</catalog>
+        
+    </catalog>
+    <catalog description="动画">
+		<catalog description="综合">
+			<video id="av19061120" src="https://www.bilibili.com/video/av19061120/">
+				<title>【萌新剧场3】2017最NB的动画电影</title>
+				<author>
+					<uName>萌新二次方</uName>
+					<uID>125776535</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>视频类型: 动漫杂谈
+简介: 简介: 这次继续填坑，填的是萌新剧场的坑，
+这次介绍推荐一部非常有争议的动画电影，
+视频所谈只是一家之言，欢迎各位在评论区啵嘴讨论。
+对动画电影有想法，有见解或者有动画电影推介的，
+都可以在评论区多多留言，我们会一个个看的。</briefing>
+					<keyword>徐老师</keyword>
+					<keyword>搞笑</keyword>
+					<keyword>科普</keyword>
+					<keyword>漫评</keyword>
+					<keyword>烟花</keyword>
+				</abstract>
+				<size width="1920" height="1080"/>
+				<duration>773</duration>
+				<uploadTime>
+					<date year="2018" month="02" day="03"/>
+					<time hour="01" minute="09" second="00"/>
+				</uploadTime>
+			</video>
+			<video id="av20325067" src="https://www.bilibili.com/video/av20325067/">
+				<title>【京紫】快餐时代的奇葩之作？</title>
+				<author>
+					<uName>萌新二次方</uName>
+					<uID>125776535</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>视频类型: 动漫杂谈
+简介: 简介:
+京阿尼的话题之作，快餐时代的奇葩之作，与二次元格格不入？ 
+哦~亲爱的京紫啊~你怎么如此...
+片名：《紫罗兰永恒花园》 
+催更用微博 weibo.com/u/1283931720</briefing>
+					<keyword>紫罗兰永恒花园</keyword>
+					<keyword>徐老师</keyword>
+					<keyword>京阿尼</keyword>
+					<keyword>杂谈</keyword>
+					<keyword>动漫</keyword>
+					<keyword>新番</keyword>
+					<keyword>吐槽</keyword>
+				</abstract>
+				<size width="1920" height="1080"/>
+				<duration>702</duration>
+				<uploadTime>
+					<date year="2018" month="03" day="03"/>
+					<time hour="22" minute="54" second="00"/>
+				</uploadTime>
+			</video>
+		</catalog>
+	</catalog>
+	<catalog description="音乐">
+		<catalog description="音乐选集">
+			<video id="av170001" src="https://www.bilibili.com/video/av170001/">
+				<title>【MV】保加利亚妖王AZIS视频合辑</title>
+				<author>
+					<uName>冰封.虾子</uName>
+					<uID>122541</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>sina 保加利亚超级天王 Azis1999年出道。他的音乐融合保加利亚名族曲风chalga和pop、rap等元素，不过他惊艳的易装秀与浮夸的角色诠释才是他最为出名的地方 Azis与众多保加利亚天王天后级歌手都有过合作.06年，他作为Mariana Popova的伴唱，在欧洲半决赛上演唱了他们的参赛曲Let Me Cry 06年他被Velikite Balgari评为保加利亚有史以来最伟大的名人之一</briefing>
+					<keyword>保加利亚妖王</keyword>
+					<keyword>保加利亚</keyword>
+					<keyword>Azis</keyword>
+					<keyword>mv</keyword>
+				</abstract>
+				<size width="1920" height="1080"/>
+				<duration>199</duration>
+				<uploadTime>
+					<date year="2011" month="11" day="09"/>
+					<time hour="22" minute="55" second="33"/>
+				</uploadTime>
+			</video>
+			<video id="av21398643" src="https://www.bilibili.com/video/av21398643/">
+				<title>厉害了我的国，当音乐响起那一刻所有人都肃然起敬！</title>
+				<author>
+					<uName>海底月和天上月</uName>
+					<uID>271111869</uID>
+				</author>
+				<format>.flv</format>
+				<abstract>
+					<briefing>http://music.163.com/video/598970D9484C149F4AE9340A3C2268C1/?userid=119756385 
+666</briefing>
+					<keyword>音乐</keyword>
+					<keyword>治愈向</keyword>
+					<keyword>现场</keyword>
+				</abstract>
+				<size width="852" height="480"/>
+				<duration>413</duration>
+				<uploadTime>2018-03-30 13:00:49
+					<date year="2018" month="02" day="30"/>
+					<time hour="13" minute="00" second="49"/>
+				</uploadTime>
+			</video>
+		</catalog>
+	</catalog>
+	<catalog description="舞蹈">
+        <catalog description="宅舞">
+            <video id="av20324562" src="https://www.bilibili.com/video/av20324562/">
+                <title>【Johnny瞳X鹿幽幽】❤小木乃伊到我家ed❤【原创改编舞】</title>
+                <author>
+                    <uName>Johnny瞳</uName>
+                    <uID>207411</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>创作类型: 原创编舞
+                        编舞出处: Johnny瞳。参考视频:av18750378 av19961267 av19246778
+                        歌曲出处: 《罗塞塔石（ロゼッタ·ストーン）》Iketeru HEARTS
+                        摄影: 肉丸君，慕戎
+                        后期: 慕戎
+                        简介: 本季度新番可以说是百家争鸣了，但是这部《小木乃伊到我家》却是以一种奇特的方式吸引了我的追番热情。又联想到小时候看过的第一部纯爱漫画（大家能从鹿幽幽的造型猜出来是哪一部作品吗），于是有涌上了强烈的创作欲望，和鹿幽幽一起做出了这一次的尝试。虽然有一些稚嫩和不足的地方，但是还是希望能够给大家带去一些快乐。给大家拜个晚年，祝大家晚年幸福！</briefing>
+                    <keyword>Johnny瞳</keyword>
+                    <keyword>剧情</keyword>
+                    <keyword>ed</keyword>
+                    <keyword>鹿幽幽</keyword>
+                    <keyword>小木乃伊到我家</keyword>
+                </abstract>
+                <size width="1920" height="1080"/>
+                <duration>202</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="03"/>
+                    <time hour="19" minute="22" second="29"/>
+                </uploadTime>
+            </video>
+            <video id="av11931142" src="https://www.bilibili.com/video/av11931142/">
+                <title>【抗糖化V】埃罗芒阿老师op/独白【和泉纱雾.ver】</title>
+                <author>
+                    <uName>抗糖化V</uName>
+                    <uID>2851020</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>纱雾真是太可爱了！！特别喜欢傲娇的妹妹QAQ
+忍不住想要出t一下cos~也是第一次出cos跳舞~~~感觉还是挺顺利的~~呼呼
+顺便告白下老新的编舞~~动作超流畅很有少女心！！编的太棒了~~
+
+因为为了跳舞方便稍微改了下人设，穿了下白丝和制服鞋。这样动作跳起来活动方便~~希望大家理解！
+
+大家喜欢的话投个硬币 发条弹幕 留个言啥的~~好让我知道你来了嘛~~
+
+本家：av11202533 様
+摄影：海洋 様
+后期：爸爸 様 
+妆娘：春虫虫 様 
+后勤：旮 様
+					</briefing>
+                    <keyword>埃罗芒老师</keyword>
+                    <keyword>cosplay</keyword>
+                    <keyword>宅舞</keyword>
+                    <keyword>白丝</keyword>
+                    <keyword>和泉纱雾</keyword>
+                </abstract>
+                <size width="1920" height="1080"/>
+                <duration>97</duration>
+                <uploadTime>
+                    <date year="2017" month="07" day="06"/>
+                    <time hour="17" minute="30" second="42"/>
+                </uploadTime>
+            </video>
+
+        </catalog>
+        <catalog description="舞蹈教程">
+            <video id="av20679278" src="https://www.bilibili.com/video/av20679278/">
+                <title>【Jin小菌】盘点罗志祥黄子韬韩庚易烊千玺的选人策略</title>
+                <author>
+                    <uName>Jin小菌</uName>
+                    <uID>32304376</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>教程类型: 基础教学
+                        舞者: Jin小菌
+                        简介: 《这就是街舞》在经过了2集半的流水账之后，毛巾大战终于结束了。本期《小菌的52招》,就来总结盘点一下四位队长的选人策略。</briefing>
+                    <keyword>韩庚</keyword>
+                    <keyword>易烊千玺</keyword>
+                    <keyword>黄子韬</keyword>
+                    <keyword>罗志祥</keyword>
+                    <keyword>这就是街舞</keyword>
+                </abstract>
+                <size width="1920" height="1080"/>
+                <duration>273</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="12"/>
+                    <time hour="18" minute="00" second="00"/>
+                </uploadTime>
+            </video>
+            <video id="av20669005" src="https://www.bilibili.com/video/av20669005/">
+                <title>【Bboy方程式】04 跳转 /360/小回环教学</title>
+                <author>
+                    <uName>Bboy方程式001</uName>
+                    <uID>291394631</uID>
+                </author>
+                <format>.flv</format>
+                <abstract>
+                    <briefing>教程类型: 基础教学
+舞者: bboydevin
+歌曲名: 无
+舞种类型: 街舞
+简介: 跳转的练习，有一定难度，需要大家坚持，大家不要轻易放弃，加油</briefing>
+                    <keyword>街舞教学</keyword>
+                    <keyword>舞蹈教程</keyword>
+                    <keyword>街舞</keyword>
+                    <keyword>bboy</keyword>
+                    <keyword>这就是街舞</keyword>
+                </abstract>
+                <size width="1920" height="1080"/>
+                <duration>273</duration>
+                <uploadTime>
+                    <date year="2018" month="03" day="12"/>
+                    <time hour="07" minute="52" second="10"/>
+                </uploadTime>
+            </video>
+        </catalog>
+    </catalog>
+</catalog>

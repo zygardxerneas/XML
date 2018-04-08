@@ -1,0 +1,274 @@
+* {
+    font-family: 微软雅黑, sans-serif;
+    cursor: default;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+:root > catalog > catalog video {
+    display: block;
+    border: cornflowerblue dashed;
+    border-radius: 16px;
+    margin: 2% auto;
+    padding: 2% 3%;
+    width: 70%;
+}
+
+:root > catalog > catalog video:after {
+    content: attr(src);
+    display: block;
+    cursor: pointer;
+    white-space: pre-line;
+    word-wrap: break-word;
+    font-size: 125%;
+    background: cornflowerblue;
+    color: aliceblue;
+    padding: 1%;
+    margin-top: 3%;
+    text-align: center;
+    border-radius: 16px;
+}
+
+:root > catalog > catalog video title {
+    display: block;
+    font-size: 210%;
+    font-family: Impact, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 1.5%;
+    line-height: 150%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    max-width: 90%;
+}
+
+:root > catalog > catalog video author {
+    display: inline-block;
+    padding: 4px 16px;
+    background: cornflowerblue;
+    color: aliceblue;
+    border-radius: 16px;
+}
+
+:root > catalog > catalog video author uName:before {
+    content: 'UP主：';
+    font-weight: 600;
+}
+
+:root > catalog > catalog video author uID:before {
+    content: '   UID：';
+    white-space: pre;
+    font-weight: 600;
+}
+
+:root > catalog > catalog video format {
+    display: none;
+}
+
+:root > catalog > catalog video abstract {
+    display: block;
+    padding-bottom: 2.5%;
+}
+
+:root > catalog > catalog video abstract briefing {
+    display: block;
+    margin: 3%;
+    line-height: 200%;
+    max-width: 90%;
+    white-space: pre-line;
+    word-wrap: break-word;
+    position: relative;
+    left: 2%;
+    font-size: 120%;
+}
+
+:root > catalog > catalog video abstract keyword {
+    padding: 4px 13px;
+    background: cornflowerblue;
+    color: aliceblue;
+    border-radius: 16px;
+    display: inline-block;
+    margin-bottom: 2%;
+}
+
+:root > catalog > catalog video abstract keyword:hover {
+    background: aliceblue;
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+:root > catalog > catalog video size:before {
+    content: '视频尺寸： ';
+    line-height: 150%;
+    font-weight: bold;
+    white-space: pre;
+}
+
+:root > catalog > catalog video size:after {
+    content: attr(width) ' × ' attr(height);
+    display: inline;
+}
+
+:root > catalog > catalog video duration:before {
+    content: '\A视频时长： ';
+    line-height: 150%;
+    font-weight: bold;
+    white-space: pre;
+}
+
+:root > catalog > catalog video duration:after {
+    content: ' s';
+    white-space: pre;
+}
+
+:root > catalog > catalog video uploadTime:before {
+    content: '\A上传时间：';
+    line-height: 150%;
+    font-weight: bold;
+    white-space: pre;
+}
+
+:root > catalog > catalog video uploadTime date:after {
+    content: attr(year) '-' attr(month) '-' attr(day);
+    display: inline;
+}
+
+:root > catalog > catalog video uploadTime time:after {
+    content: attr(hour) ':' attr(minute) ':' attr(second);
+    display: inline;
+}
+
+:root > catalog video {
+    display: block;
+    border: darkorange dashed;
+    border-radius: 16px;
+    margin: 2% auto;
+    padding: 2% 3%;
+    width: 70%;
+}
+
+:root > catalog video:after {
+    content: attr(src);
+    display: block;
+    cursor: pointer;
+    white-space: pre-line;
+    word-wrap: break-word;
+    font-size: 125%;
+    background: darkorange;
+    color: white;
+    padding: 1%;
+    margin-top: 3%;
+    text-align: center;
+    border-radius: 16px;
+}
+
+:root > catalog video title {
+    display: block;
+    font-size: 210%;
+    font-family: Impact, sans-serif;
+    font-weight: bold;
+    position: relative;
+    left: 1.5%;
+    line-height: 150%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    max-width: 90%;
+}
+
+:root > catalog video author {
+    display: inline-block;
+    padding: 4px 16px;
+    background: darkorange;
+    color: white;
+    border-radius: 16px;
+}
+
+:root > catalog video author uName:before {
+    content: 'UP主：';
+    font-weight: 600;
+}
+
+:root > catalog video author uID:before {
+    content: '   UID：';
+    white-space: pre;
+    font-weight: 600;
+}
+
+:root > catalog video format {
+    display: none;
+}
+
+:root > catalog video abstract {
+    display: block;
+    padding-bottom: 2.5%;
+}
+
+:root > catalog video abstract briefing {
+    display: block;
+    margin: 3%;
+    line-height: 200%;
+    max-width: 90%;
+    white-space: pre-line;
+    word-wrap: break-word;
+    position: relative;
+    left: 2%;
+    font-size: 120%;
+}
+
+:root > catalog video abstract keyword {
+    padding: 4px 13px;
+    background: darkorange;
+    color: white;
+    border-radius: 16px;
+    display: inline-block;
+    margin-bottom: 2%;
+}
+
+:root > catalog video abstract keyword:hover {
+    background: white;
+    color: darkorange;
+    cursor: pointer;
+}
+
+:root > catalog video size:before {
+    content: '视频尺寸： ';
+    line-height: 150%;
+    font-weight: bold;
+    white-space: pre;
+}
+
+:root > catalog video size:after {
+    content: attr(width) ' × ' attr(height);
+    display: inline;
+}
+
+:root > catalog video duration:before {
+    content: '\A视频时长： ';
+    line-height: 150%;
+    font-weight: bold;
+    white-space: pre;
+}
+
+:root > catalog video duration:after {
+    content: ' s';
+    white-space: pre;
+}
+
+:root > catalog video uploadTime:before {
+    content: '\A上传时间：';
+    line-height: 150%;
+    font-weight: bold;
+    white-space: pre;
+}
+
+:root > catalog video uploadTime date:after {
+    content: attr(year) '-' attr(month) '-' attr(day);
+    display: inline;
+}
+
+:root > catalog video uploadTime time:after {
+    content: attr(hour) ':' attr(minute) ':' attr(second);
+    display: inline;
+}
