@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="45121ed7-f1bb-494b-b535-6e1ec3ccc4fc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exp2/2-2xsl/catalog.xsl" afterPath="$PROJECT_DIR$/exp2/2-2xsl/catalog.xsl" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -368,7 +367,7 @@
       <workItem from="1521552783898" duration="1468000" />
       <workItem from="1521591726845" duration="817000" />
       <workItem from="1522220135948" duration="994000" />
-      <workItem from="1523176373146" duration="7561000" />
+      <workItem from="1523176373146" duration="7586000" />
     </task>
     <task id="LOCAL-00001" summary="根据dalao的意见修改">
       <created>1520948865070</created>
@@ -447,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523187353465</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="xls跳转链接">
+      <created>1523188610528</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1523188610528</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20473000" />
+    <option name="totallyTimeSpent" value="20498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -510,7 +516,8 @@
     <MESSAGE value="xsd文件更新" />
     <MESSAGE value="实验2就差小组图签" />
     <MESSAGE value="实验2完成？" />
-    <option name="LAST_COMMIT_MESSAGE" value="实验2完成？" />
+    <MESSAGE value="xls跳转链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="xls跳转链接" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
