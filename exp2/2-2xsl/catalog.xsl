@@ -14,7 +14,13 @@
                     <div class="videos">
                         <xsl:apply-templates/>
                         <div class="src">
-                            <xsl:value-of select="@src"/>
+                            <!--xsl:value-of select="@src"/-->
+                            <a target="_blank">
+								<xsl:attribute name="href">
+									<xsl:value-of select="@src"/>
+								</xsl:attribute>
+								<xsl:value-of select="@src"/>
+							</a>
                         </div>
                     </div>
                 </xsl:for-each>
@@ -25,7 +31,13 @@
                         <span class="ads">ad</span>
                         <xsl:apply-templates/>
                         <div class="src">
-                            <xsl:value-of select="@src"/>
+                            <!--xsl:value-of select="@src"/-->
+                            <a target="_blank">
+								<xsl:attribute name="href">
+									<xsl:value-of select="@src"/>
+								</xsl:attribute>
+								<xsl:value-of select="@src"/>
+							</a>
                         </div>
                     </div>
                 </xsl:for-each>
