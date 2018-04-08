@@ -367,7 +367,7 @@
       <workItem from="1521552783898" duration="1468000" />
       <workItem from="1521591726845" duration="817000" />
       <workItem from="1522220135948" duration="994000" />
-      <workItem from="1523176373146" duration="7586000" />
+      <workItem from="1523176373146" duration="7596000" />
     </task>
     <task id="LOCAL-00001" summary="根据dalao的意见修改">
       <created>1520948865070</created>
@@ -453,11 +453,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523188610528</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="xls跳转链接">
+      <created>1523188624783</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1523188624783</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20498000" />
+    <option name="totallyTimeSpent" value="20508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
