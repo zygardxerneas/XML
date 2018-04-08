@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45121ed7-f1bb-494b-b535-6e1ec3ccc4fc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/海报.png" afterPath="$PROJECT_DIR$/img/portfolio/海报.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -367,7 +368,7 @@
       <workItem from="1521552783898" duration="1468000" />
       <workItem from="1521591726845" duration="817000" />
       <workItem from="1522220135948" duration="994000" />
-      <workItem from="1523176373146" duration="7596000" />
+      <workItem from="1523176373146" duration="8205000" />
     </task>
     <task id="LOCAL-00001" summary="根据dalao的意见修改">
       <created>1520948865070</created>
@@ -460,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523188624783</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="xls跳转链接">
+      <created>1523188632200</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1523188632200</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20508000" />
+    <option name="totallyTimeSpent" value="21117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
